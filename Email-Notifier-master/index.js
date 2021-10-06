@@ -38,8 +38,8 @@ app.post('/new', (req, res) => {
     const check = req.body.check;
     const message = {
         to: mail,
-        from: "arboy2308@gmail.com",
-        subject: "Creted By Amrit Raj",
+        from: "chit11255@gmail.com",
+        subject: "Creted By Pankaj kumar",
         html: `<h1>You ${check}  The Office At This Time ${d.getHours()}:${d.getMinutes()} IST</h1>`,
     }
 
