@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon ./index.js"
   },
-  "author": "Amrit Raj",
+  "author": "Pankaj Kumar",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.4.7",
