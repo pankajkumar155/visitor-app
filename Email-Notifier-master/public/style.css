@@ -1,6 +1,6 @@
 body
 {
-    background-color: #14213d;
+    background-color: #92a8d1;
 }
 
 .outer-box
@@ -10,7 +10,7 @@ body
     margin: auto;
     margin-top: 130px;
     position: relative;
-    background-color: #006d77;
+    background-color: #80ced6;
     color: white;
     border-radius: 10px;
 }
@@ -76,7 +76,7 @@ h1{
     width: 150px;
     height: 30px;
     font-size: medium;
-    background-color: #c9184a;
+    background-color: #f18973;
     color: white;
 }
 
