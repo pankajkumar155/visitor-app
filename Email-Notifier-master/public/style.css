@@ -51,7 +51,7 @@ h1{
     left: 150px;
     width: 100px;
     border: 4px solid #3c096c;
-    background-color: lightblue;
+    background-color: lightyellow;
     color: white;
     font-size: 20px;
     padding: 5px;
@@ -76,7 +76,7 @@ h1{
     width: 150px;
     height: 30px;
     font-size: medium;
-    background-color: yellow;
+    background-color: red;
     color: white;
 }
 
